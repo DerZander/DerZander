@@ -1,5 +1,13 @@
 # 💫 About Me:
-I´m a dual student.
+Hey, I'm Timo! As an avid gamer, member of the volunteer fire department, and graduate in the field of Business Informatics, I am a versatile and dedicated individual.
+
+I discovered my passion for video games at an early age. Immersing myself in virtual worlds and tackling challenging tasks excites me. Gaming is not just a hobby for me; it's a way to unwind, have fun, and gain new experiences. Through video games, I have honed my problem-solving skills, strategic thinking, and ability to collaborate.
+
+In addition to my gaming passion, I am also a proud member of the volunteer fire department. The opportunity to help others in need and contribute to the safety of our community fills me with pride. In the fire department, I have not only developed practical skills such as teamwork, decision-making, and stress resilience, but also formed valuable friendships.
+
+My studies in Business Informatics have provided me with a solid foundation in the fields of business and information technology. I have learned how to integrate IT systems into economic processes and how to develop innovative solutions to optimize business operations. With my knowledge, I aim to contribute to digital transformation and assist companies in achieving their goals more efficiently.
+
+Overall, my versatility and passion for different areas define me. Whether it's in the virtual world of video games, during firefighting missions, or in designing digital solutions for businesses, I am ready to take on new challenges and give it my all.
 
 
 ## 🌐 Socials:
